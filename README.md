@@ -1,4 +1,4 @@
-## Udacity - Data Analyst Nanodegree Program - Complete Portfolio of the Projects and more
+## Udacity - Data Analyst Nanodegree Program - Complete Portfolio of the Projects
 
 This repository is dedicated to Udacity’s Data Analyst Nanodegree Program (DAND). It contains all major projects, completed in the program. The projects are the requirements for successful graduation. Please feel free to take a look at the program [syllabus](Resources/DAND_Syllabus.pdf) and scroll through [official website](https://www.udacity.com/course/data-analyst-nanodegree--nd002), in meanwhile, I invite you to take a look at the projects, my certificate of completion, and highlights from the program.
 
