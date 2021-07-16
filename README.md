@@ -5,7 +5,7 @@ This repository is dedicated to Udacity’s Data Analyst Nanodegree Program (DAN
 
 ## Data Analyst Nanodegree Certificate
 <p align="center">
-<img src="Resources/Udacity_DAND.PNG" width="55%" height="55%"> </p>
+<img src="Resources/Udacity_DAND.PNG" width="70%" height="70%"> </p>
 
 <p align="center">
 <i>Certificate of Completion</i>
@@ -14,13 +14,13 @@ This repository is dedicated to Udacity’s Data Analyst Nanodegree Program (DAN
 ## Program Highlights
 DAND program equipt me well with essential knowledge of data analysis. The lessons, case studies, and projects covered all aspects of data analysis:
 
-Defining problem and analytical questions
-Data wrangling (gathering, assessing, and cleaning data)
-EDA and feature engineering
-Testing and concluding from descriptive & inferential statistics
-Data visualization and communication
+- [x] Defining problem and analytical questions
+- [x] Data wrangling (gathering, assessing, and cleaning data)
+- [x] EDA and feature engineering
+- [x] Testing and concluding from descriptive & inferential statistics
+- [x] Data visualization and communication
 
-Additionally, I enjoyed the emphasis on Python libraries such as Pandas, NumPy, Matpolotlib, and Seaborn. I was most impressed with the statistical topics such as Binominal Distribution, Conditional Probability, Bayes Rule, Hypothesis Testing, Regression, and A/B testing. The lesson also covered VIFs (variance inflation factors), full rank models and higher-order interactions in regression models. Essential knowledge for a deep understanding of data analysis and data science! I also love the complex approach to the bivariate and multivariate visualizations with Python, Pandas, Matplotlib, and Seaborn.
+Additionally, I enjoyed the emphasis on Python libraries such as **Pandas**, **NumPy**, **Matpolotlib**, and **Seaborn**. I was most impressed with the **statistical topics** such as **Binominal Distribution**, **Conditional Probability**, **Bayes Rule**, **Hypothesis Testing**, **Regression**, and **A/B testing**. The lesson also covered **VIFs (variance inflation factors)**, **full rank models** and **higher-order interactions in regression models**. Essential knowledge for a deep understanding of data analysis and data science! I also love the complex approach to the **bivariate** and **multivariate visualization**s with Python, Pandas, Matplotlib, and Seaborn.
 
 
 ## Projects
@@ -47,8 +47,6 @@ In this project, I am performing A/B testing for the company’s new website. I 
 
 Go to [Project 3 - Analyze A/B Test Result](https://github.com/AndrejaCH/AB_Testing) Repository.<br>
 [Submission_Review](Submission_Reviews/03_Analyze_AB_Test_Results_Submission_Review.pdf)
-
-
 
 ### Project 4 - Wrangle and Analyze Data
 
