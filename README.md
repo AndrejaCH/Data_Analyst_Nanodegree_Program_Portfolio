@@ -23,19 +23,13 @@ Data visualization and communication
 Additionally, I enjoyed the emphasis on Python libraries such as Pandas, NumPy, Matpolotlib, and Seaborn. I was most impressed with the statistical topics such as Binominal Distribution, Conditional Probability, Bayes Rule, Hypothesis Testing, Regression, and A/B testing. The lesson also covered VIFs (variance inflation factors), full rank models and higher-order interactions in regression models. Essential knowledge for a deep understanding of data analysis and data science! I also love the complex approach to the bivariate and multivariate visualizations with Python, Pandas, Matplotlib, and Seaborn.
 
 
-
-
-
-
-
-
 ## Projects
 
 ### Project 1 - Explore Weather Trends
 
 In this project, I am analyzing the global temperature data and temperature data from Ljubljana and Helsinki over time. The highlights for this project are ***calculating moving average** with ***Python*** and ***Excel*** on time series data, ***creating visuals*** and ***calculating & interpreting correlations*** between variables. The project yielded a comprehensive report that includes all steps of data analysis with an explanation of the code, terminology and findings.
 
-Go to [Project 1 - Explore Weather Trends](link) Repository
+Go to [Project 1 - Explore Weather Trends](https://github.com/AndrejaCH/Weather_Trends) Repository.<br>
 [Submission_Review](Submission_Reviews/01_Project_Weather_Trends_Submission_Review.pdf)
 
 
