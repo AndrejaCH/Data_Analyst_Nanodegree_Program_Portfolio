@@ -25,7 +25,7 @@ Additionally, I enjoyed the emphasis on Python libraries such as **Pandas**, **N
 
 ## Projects
 
-In the section below are the summaries for each of the main projects that I have completed in the Data Analyst Nanodegree Program. The summary contains project highlights and links to each project stand-alone repository and submission review.
+Please find the summaries for each of the main projects that I have completed in the (DAND) Program in the section below. Each individual summary contains project highlights and links to the project’s repository and submission review.
 
 ### 🎯 Project 1 - Explore Weather Trends
 
