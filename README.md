@@ -27,7 +27,7 @@ Additionally, I enjoyed the emphasis on Python libraries such as **Pandas**, **N
 
 Please find the summaries for each of the main projects that I have completed in the (DAND) Program in the section below. Each individual summary contains project highlights and links to the project’s repository and submission review.
 
-### 🎯 Project 1 - Explore Weather Trends
+### 🎯 [Project 1 - Explore Weather Trends](https://github.com/AndrejaCH/Weather_Trends)
 
 In this project, I am analyzing the global temperature data and temperature data from Ljubljana and Helsinki over time. The highlights for this project are ***calculating moving average** with ***Python*** and ***Excel*** on time series data, ***creating visuals*** and ***calculating & interpreting correlations*** between variables. The project yielded a comprehensive report that includes all steps of data analysis with an explanation of the code, terminology and findings.
 
