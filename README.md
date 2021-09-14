@@ -20,7 +20,7 @@ DAND program equipt me well with essential knowledge of data analysis. The lesso
 - [x] Testing and concluding from descriptive & inferential statistics
 - [x] Data visualization and communication
 
-Additionally, I enjoyed the emphasis on Python libraries such as **Pandas**, **NumPy**, **Matpolotlib**, and **Seaborn**. I was most impressed with the **statistical topics** such as **Binominal Distribution**, **Conditional Probability**, **Bayes Rule**, **Hypothesis Testing**, **Regression**, and **A/B testing**. The lesson also covered **VIFs (variance inflation factors)**, **full rank models** and **higher-order interactions in regression models**. Essential knowledge for a deep understanding of data analysis and data science! I also love the complex approach to the **bivariate** and **multivariate visualization**s with Python, Pandas, Matplotlib, and Seaborn.
+Additionally, I enjoyed the emphasis on Python libraries such as **Pandas**, **NumPy**, **Matpolotlib**, and **Seaborn**. I was most impressed with the **statistical topics** such as **Binominal Distribution**, **Conditional Probability**, **Bayes Rule**, **Hypothesis Testing**, **Regression**, and **A/B testing**. The lesson also covered **VIFs (variance inflation factors)**, **full rank models** and **higher-order interactions in regression models**. Essential knowledge for a deep understanding of data analysis and data science! I also loved the complex approach to the **bivariate** and **multivariate visualization**s with Python, Pandas, Matplotlib, and Seaborn.
 
 
 ## Projects
